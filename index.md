@@ -1,5 +1,3 @@
-# Manhattan
-
 ## Introduction
 
 ## Borough Overview
