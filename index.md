@@ -21,16 +21,16 @@ Below are links to websites that details specifics on each of Manhatann's indivi
 [West Village Link](https://michelle-thaung.github.io/cs127honors/)
 
 ### Midtown
-https://anikasujana.github.io/manhattan/ 
+[Midtown Link](https://anikasujana.github.io/manhattan/)
 
 ### Chelsea
-https://roydel36.github.io/Chelsea/
+[Chelsea Link](https://roydel36.github.io/Chelsea/)
 
 ### Soho
-https://olti2803.github.io/soho/
+[Soho Link](https://olti2803.github.io/soho/)
 
 ### East Village
-https://farhin-bhuiyan.github.io/East-Village/
+[East Village Link](https://farhin-bhuiyan.github.io/East-Village/)
 
 
 
