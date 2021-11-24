@@ -13,8 +13,22 @@ The bar graph above depicts the average area of sidewalk space the restaurants i
 The above bar graph shows the amount of restaurants in each borough that are approved for sidewalk seating, approved for roadway seating, and are approved for both. Manhattan is the borough with the most restaurants approved for sidewalk seating (with about 2,000 restaurants), the most restaurants approved for roadway seating (with about 1,000 restaurants), and thus the borough with the highest number of restaurants approved for outdoor seating (a bit over 3,000 restaurants). The value_counts() function was utilized to compare the number of restaurants approved for different types of seating in each borough. Manhattan also has the most open streets available even after taking roadway and sidewalk seating into account. While Manhattan has the least opportunities to open up outdoor seating in comparison to the other boroughs (because of its small area and high population), the restaurants of the borough still grab at every opportunity to reopen, leading it to have the most restaurants approved for sidewalk and roadway seating. This approval means that the restaurants are not obstructing bus stops, no standing/no stopping anytime zones, doorways, or FDNY access, and also do not disrupt traffic within the city. With this in mind, social distancing measures may not always be fully taken into account given the packed population of Manhattan in such limited space, even outdoors, which is worth taking note of as well. While health measures should be strictly followed to ensure a healthy dining experience, tables may be set closer together in outdoor dining spaces in Manhattan to make use of the very limited space (with this authorization given to vaccinated customers).
 
 ## Links to all neighborhoods
+
+### West Village
 https://michelle-thaung.github.io/cs127honors/
-https://olti2803.github.io/soho/
+
+### Midtown
 https://anikasujana.github.io/manhattan/
+
+### Chelsea
 https://roydel36.github.io/Chelsea/
+
+### Soho
+https://olti2803.github.io/soho/
+
+### East Village
 https://farhin-bhuiyan.github.io/East-Village/
+
+
+
+
