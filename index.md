@@ -18,7 +18,7 @@ Below are links to websites that details specifics on each of Manhatann's indivi
 ## Links to all neighborhoods
 
 ### West Village
-[Link text Here](https://michelle-thaung.github.io/cs127honors/)
+[West Village Link](https://michelle-thaung.github.io/cs127honors/)
 
 ### Midtown
 https://anikasujana.github.io/manhattan/ 
