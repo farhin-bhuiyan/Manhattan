@@ -1,4 +1,4 @@
-## Manhattan
+# Manhattan
 
 ## Introduction
 When looking at the reopening of restaurants in the Manhattan area, we focused on 5 central neighborhoods: West Village, East Village, Midtown, Soho, and Chelsea. We considered the demographics, general location, and rankings in desirability and accessibility to assess and analyze the unique obstacles faced by each of the neighborhoods when reopening restaurants for outdoor dining. The neighborhoods exhibit patterns that are reflective for Manhattan’s experience as a whole when reopening outdoor dining: the tight layout of the borough makes finding proper sidewalk space difficult, but the demand for Manhattan’s bustling city and nightlife led to successful reopenings.
